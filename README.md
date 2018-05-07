@@ -30,6 +30,7 @@ Add it in your root build.gradle at the end of repositories:
             />
 	    
   Step 4 Set text to custom textview
+  
           FarshidTextView farshidTextView=findViewById(R.id.farshidTextView);
           farshidTextView.setText(getString(R.string.text),true);
 
