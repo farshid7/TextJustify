@@ -1,6 +1,4 @@
 # TextJustify
-# JsonProvider
-jsonProvider
 this library help to justify persian text in easy way.
 
 How to use:
